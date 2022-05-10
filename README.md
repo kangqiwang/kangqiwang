@@ -23,7 +23,7 @@
 
 **Find Me;**
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kang7-wang)
-
+[![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@kang7-wang)
+[![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkang7_wang)](https://twitter.com/kang7_wang)
 
 ---
