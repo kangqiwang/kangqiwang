@@ -3,7 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.kang7.uk/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kangqi-wang/)
-![GitHub Sponsor](https://img.shields.io/github/sponsors/kangqiwang?label=Sponsor&logo=GitHub)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/kangqiwang)
 
 
 **About Me:**
