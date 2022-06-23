@@ -17,7 +17,7 @@
 ### Github States
 
 <img src="https://github-readme-stats.vercel.app/api?username=kangqiwang&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangqiwang&layout=compact&theme=apprentice&count_private=true&hide=html,css&langs_count=8" alt="Top langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangqiwang&layout=compact&theme=apprentice&count_private=true&hide=html,css&langs_count=8&exclude_repo=openage,pm4py-core,kevin" alt="Top langs">
 
 
 
