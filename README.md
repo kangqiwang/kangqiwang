@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Open Source Project
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I like bouldering
+- Fun-Fact: I like tennis
 - How to reach me: __kang7.wang@gmail.com__
 
 ### Github States
